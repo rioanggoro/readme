@@ -1,28 +1,11 @@
-### Tech Stack
+<h1 align="center">Hi 👋, I'm Rio Anggoro</h1>
+<h3 align="center">Junior Web Developer</h3>
 
-<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-<a href="#"><img align="left" alt="HTML" title="HTML" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
-<a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-<a href="https://en.wikipedia.org/wiki/CSS"><img align="left" alt="Css" title="Css" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" /></a>
-<a href="https://tailwindcss.com"><img align="left" alt="Tailwindcss" title="Tailwindcss" width="21px" src="https://logowik.com/tailwind-css-logo-vector-53238.html" /></a></a>
-<br>
-
-### Github Statistic
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/rioanggoro">
-  <img height="180em" src="https://rio-anggoros-projects-a2f82f8c.vercel.app/api?username=rioanggoro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Irfanmqrb25&layout=compact&langs_count=8&theme=radical"/>
-</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rio-anggoro-5b29751a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rio-anggoro-5b29751a1/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/rio.anggoro_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rio.anggoro_/" height="30" width="40" /></a>
 </p>
 
-### You Can Find Me at
-
-<p> 
-  <a href="https://www.linkedin.com/in/rio-anggoro-5b29751a1/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="https://www.instagram.com/rio.anggoro_/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> 
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/> </a> </p>
